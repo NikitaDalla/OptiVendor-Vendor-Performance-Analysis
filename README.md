@@ -17,10 +17,12 @@ This project focuses on analyzing vendor performance based on sales data. It inv
 ├── reports/
 │   └── Vendor Performance Report.pdf
 └── README.md
+
 🛠️ Tech Stack
 Languages: Python (Pandas, Matplotlib, Seaborn)
 Tools: Jupyter Notebook, Power BI, Excel
 Other: PDF Reporting
+
 💡 Key Features
 Automated ingestion and cleaning of vendor sales data
 Detailed Exploratory Data Analysis (EDA) to identify trends and patterns
